@@ -19,4 +19,4 @@ This project analyzes the **Online Shoppers Intention Dataset**, which focuses o
   - User type (Returning or New visitor)
   - Session-based data
 
-## Project Structure
+
